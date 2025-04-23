@@ -5,10 +5,10 @@
 [![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/vini-soa/)
 
 ## Um pouco sobre mim...  
-  Sou um entusiasta da tecnologia, sempre em busca de oportunidades para aprender e aplicar meus conhecimentos em projetos. Meu objetivo é evoluir como desenvolvedor e contribuir para iniciativas inovadoras que gerem impacto.
+Sou Analista de Sistemas Pleno na CLARO, guiado por uma sede constante de evolução. Transformo conhecimento em ação, sempre buscando aplicar minhas habilidades em projetos que desafiem o comum. Meu propósito é claro: crescer na área de tecnologia e contribuir ativamente com soluções inovadoras que deixem uma marca real no mundo.
 
-- 📘 Atualmente estudo na FATEC Rubens Lara;
-- ⛏️ Estou procurando por emprego;
+- 📘 Atualmente estudo na FATEC Rubens Lara e estou no 4° semestre;
+- ⛏️ Garimpando conhecimento todos os dias;
 - 🧑‍🦲 Foco em Desenvolvimento Front-End;
 - 🎸 Toco violão como hobby;
 - 🏐 Apaixonado por esportes.
